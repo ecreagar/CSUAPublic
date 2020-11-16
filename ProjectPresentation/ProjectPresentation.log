@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  3 NOV 2020 13:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  16 NOV 2020 11:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -914,35 +914,35 @@ Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 )
 \Wrappedcontinuationbox=\box61
 \Wrappedvisiblespacebox=\box62
-Package hyperref Info: Option `breaklinks' set `true' on input line 359.
-Package hyperref Info: Option `colorlinks' set `true' on input line 359.
+Package hyperref Info: Option `breaklinks' set `true' on input line 358.
+Package hyperref Info: Option `colorlinks' set `true' on input line 358.
 
 (./ProjectPresentation.aux)
 \openout1 = `ProjectPresentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 366.
-LaTeX Font Info:    ... okay on input line 366.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 366.
-LaTeX Font Info:    ... okay on input line 366.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 366.
-LaTeX Font Info:    ... okay on input line 366.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 366.
-LaTeX Font Info:    ... okay on input line 366.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 366.
-LaTeX Font Info:    ... okay on input line 366.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 366.
-LaTeX Font Info:    ... okay on input line 366.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 366.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 366.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 365.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 365.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 365.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 365.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 365.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 365.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 365.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 365.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 366.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 366.
-LaTeX Font Info:    ... okay on input line 366.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 366.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 365.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 365.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -1026,7 +1026,7 @@ Package caption Info: End \AtBeginDocument code.
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 \AtBeginShipoutBox=\box64
-Package hyperref Info: Link coloring ON on input line 366.
+Package hyperref Info: Link coloring ON on input line 365.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1036,16 +1036,16 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count157
 )
-LaTeX Info: Redefining \ref on input line 366.
-LaTeX Info: Redefining \pageref on input line 366.
-LaTeX Info: Redefining \nameref on input line 366.
+LaTeX Info: Redefining \ref on input line 365.
+LaTeX Info: Redefining \pageref on input line 365.
+LaTeX Info: Redefining \nameref on input line 365.
 
 (./ProjectPresentation.out) (./ProjectPresentation.out)
 \@outlinefile=\write7
 \openout7 = `ProjectPresentation.out'.
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 372.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 370.
 
 (./ProjectPresentation.toc
 LaTeX Font Info:    Try loading font information for OT1+ppl on input line 1.
@@ -1091,7 +1091,7 @@ LaTeX Font Info:    Try loading font information for U+rsfs on input line 1.
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 7.
 )
 \tf@toc=\write8
 \openout8 = `ProjectPresentation.toc'.
@@ -1099,307 +1099,300 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
  [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 417.
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 430.
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+) [2]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 425.
+(hyperref)                than one, level fixed on input line 525.
 
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 428.
+(Font)              scaled to size 5.21004pt on input line 534.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 428.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 428.
+(Font)              scaled to size 5.21004pt on input line 534.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 534.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-<output_13_0.png, id=112, 1189.44376pt x 618.31pt>
-File: output_13_0.png Graphic file (type png)
-<use output_13_0.png>
-Package pdftex.def Info: output_13_0.png  used on input line 458.
+<output_16_0.png, id=121, 1189.44376pt x 618.31pt>
+File: output_16_0.png Graphic file (type png)
+<use output_16_0.png>
+Package pdftex.def Info: output_16_0.png  used on input line 554.
 (pdftex.def)             Requested size: 1189.44086pt x 618.30849pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 460--461
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
 
  []
 
-[2 <./output_13_0.png>]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 488.
+(hyperref)                than one, level fixed on input line 587.
 
-LaTeX Font Info:    Try loading font information for TS1+ppl on input line 499.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ts1ppl.fd
-File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-)
-<output_22_0.png, id=124, 576.1525pt x 577.15625pt>
-File: output_22_0.png Graphic file (type png)
-<use output_22_0.png>
-Package pdftex.def Info: output_22_0.png  used on input line 519.
-(pdftex.def)             Requested size: 576.15108pt x 577.15483pt.
- [3]
-Underfull \hbox (badness 10000) in paragraph at lines 521--522
-
- []
-
-<output_25_0.png, id=134, 1166.3575pt x 681.54625pt>
+[4 <./output_16_0.png>]
+<output_25_0.png, id=143, 576.1525pt x 577.15625pt>
 File: output_25_0.png Graphic file (type png)
 <use output_25_0.png>
-Package pdftex.def Info: output_25_0.png  used on input line 529.
+Package pdftex.def Info: output_25_0.png  used on input line 616.
+(pdftex.def)             Requested size: 576.15108pt x 577.15483pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--619
+
+ []
+
+<output_28_0.png, id=144, 1166.3575pt x 681.54625pt>
+File: output_28_0.png Graphic file (type png)
+<use output_28_0.png>
+Package pdftex.def Info: output_28_0.png  used on input line 626.
 (pdftex.def)             Requested size: 1166.35466pt x 681.54459pt.
-[4 <./output_22_0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 531--532
-
- []
-
-<output_29_0.png, id=140, 1160.335pt x 721.69624pt>
-File: output_29_0.png Graphic file (type png)
-<use output_29_0.png>
-Package pdftex.def Info: output_29_0.png  used on input line 546.
-(pdftex.def)             Requested size: 1160.33217pt x 721.69449pt.
 [5 <./output_25_0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 548--549
+Underfull \hbox (badness 10000) in paragraph at lines 628--629
 
  []
 
-<output_31_0.png, id=146, 1166.3575pt x 613.29124pt>
-File: output_31_0.png Graphic file (type png)
-<use output_31_0.png>
-Package pdftex.def Info: output_31_0.png  used on input line 559.
+<output_32_0.png, id=151, 1160.335pt x 721.69624pt>
+File: output_32_0.png Graphic file (type png)
+<use output_32_0.png>
+Package pdftex.def Info: output_32_0.png  used on input line 642.
+(pdftex.def)             Requested size: 1160.33217pt x 721.69449pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--645
+
+ []
+
+[6 <./output_28_0.png> <./output_32_0.png>]
+<output_34_0.png, id=158, 1166.3575pt x 613.29124pt>
+File: output_34_0.png Graphic file (type png)
+<use output_34_0.png>
+Package pdftex.def Info: output_34_0.png  used on input line 654.
 (pdftex.def)             Requested size: 1166.35466pt x 613.28973pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--562
+Underfull \hbox (badness 10000) in paragraph at lines 656--657
 
  []
 
-[6 <./output_29_0.png> <./output_31_0.png>]
-<output_33_0.png, id=153, 1160.335pt x 626.34pt>
-File: output_33_0.png Graphic file (type png)
-<use output_33_0.png>
-Package pdftex.def Info: output_33_0.png  used on input line 567.
+<output_36_0.png, id=159, 1160.335pt x 626.34pt>
+File: output_36_0.png Graphic file (type png)
+<use output_36_0.png>
+Package pdftex.def Info: output_36_0.png  used on input line 662.
 (pdftex.def)             Requested size: 1160.33217pt x 626.33846pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--570
+Underfull \hbox (badness 10000) in paragraph at lines 664--665
 
  []
 
-<output_35_0.png, id=154, 1160.335pt x 613.29124pt>
-File: output_35_0.png Graphic file (type png)
-<use output_35_0.png>
-Package pdftex.def Info: output_35_0.png  used on input line 581.
+[7 <./output_34_0.png> <./output_36_0.png>]
+<output_38_0.png, id=167, 1160.335pt x 613.29124pt>
+File: output_38_0.png Graphic file (type png)
+<use output_38_0.png>
+Package pdftex.def Info: output_38_0.png  used on input line 675.
 (pdftex.def)             Requested size: 1160.33217pt x 613.28973pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 583--584
+Underfull \hbox (badness 10000) in paragraph at lines 677--678
 
  []
 
-[7 <./output_33_0.png> <./output_35_0.png>]
-<output_37_0.png, id=162, 1160.335pt x 643.40375pt>
-File: output_37_0.png Graphic file (type png)
-<use output_37_0.png>
-Package pdftex.def Info: output_37_0.png  used on input line 598.
-(pdftex.def)             Requested size: 1160.33217pt x 643.40218pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 600--601
-
- []
-
-<output_40_0.png, id=163, 1169.36874pt x 634.37pt>
+<output_40_0.png, id=168, 1160.335pt x 643.40375pt>
 File: output_40_0.png Graphic file (type png)
 <use output_40_0.png>
-Package pdftex.def Info: output_40_0.png  used on input line 612.
+Package pdftex.def Info: output_40_0.png  used on input line 691.
+(pdftex.def)             Requested size: 1160.33217pt x 643.40218pt.
+[8 <./output_38_0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 693--694
+
+ []
+
+<output_43_0.png, id=174, 1169.36874pt x 634.37pt>
+File: output_43_0.png Graphic file (type png)
+<use output_43_0.png>
+Package pdftex.def Info: output_43_0.png  used on input line 704.
 (pdftex.def)             Requested size: 1169.36589pt x 634.36844pt.
-[8 <./output_37_0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 614--615
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--707
 
  []
 
-[9 <./output_40_0.png>]
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 684.
-<output_51_0.png, id=175, 1160.335pt x 594.22pt>
-File: output_51_0.png Graphic file (type png)
-<use output_51_0.png>
-Package pdftex.def Info: output_51_0.png  used on input line 692.
+[9 <./output_40_0.png> <./output_43_0.png>] [10]
+<output_55_0.png, id=187, 1160.335pt x 594.22pt>
+File: output_55_0.png Graphic file (type png)
+<use output_55_0.png>
+Package pdftex.def Info: output_55_0.png  used on input line 813.
 (pdftex.def)             Requested size: 1160.33217pt x 594.21855pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 694--695
+Underfull \hbox (badness 10000) in paragraph at lines 815--816
 
  []
 
-<output_52_0.png, id=176, 1160.335pt x 594.22pt>
-File: output_52_0.png Graphic file (type png)
-<use output_52_0.png>
-Package pdftex.def Info: output_52_0.png  used on input line 698.
+<output_56_0.png, id=188, 1160.335pt x 594.22pt>
+File: output_56_0.png Graphic file (type png)
+<use output_56_0.png>
+Package pdftex.def Info: output_56_0.png  used on input line 818.
 (pdftex.def)             Requested size: 1160.33217pt x 594.21855pt.
-[10 <./output_51_0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 700--701
+
+Underfull \hbox (badness 10000) in paragraph at lines 820--821
 
  []
 
-[11 <./output_52_0.png>]
-<output_61_0.png, id=190, 1160.335pt x 613.29124pt>
-File: output_61_0.png Graphic file (type png)
-<use output_61_0.png>
-Package pdftex.def Info: output_61_0.png  used on input line 747.
-(pdftex.def)             Requested size: 1160.33217pt x 613.28973pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 749--750
-
- []
-
-<output_63_0.png, id=191, 1160.335pt x 689.57625pt>
-File: output_63_0.png Graphic file (type png)
-<use output_63_0.png>
-Package pdftex.def Info: output_63_0.png  used on input line 759.
-(pdftex.def)             Requested size: 1160.33217pt x 689.57455pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 761--762
-
- []
-
-[12 <./output_61_0.png> <./output_63_0.png>]
-<output_65_0.png, id=198, 1160.335pt x 676.5275pt>
+[11 <./output_55_0.png> <./output_56_0.png>]
+<output_65_0.png, id=195, 1160.335pt x 613.29124pt>
 File: output_65_0.png Graphic file (type png)
 <use output_65_0.png>
-Package pdftex.def Info: output_65_0.png  used on input line 771.
-(pdftex.def)             Requested size: 1160.33217pt x 676.52583pt.
+Package pdftex.def Info: output_65_0.png  used on input line 864.
+(pdftex.def)             Requested size: 1160.33217pt x 613.28973pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 773--774
+Underfull \hbox (badness 10000) in paragraph at lines 866--867
 
  []
 
-<output_67_0.png, id=199, 1160.335pt x 676.5275pt>
+[12 <./output_65_0.png>]
+<output_67_0.png, id=202, 1160.335pt x 689.57625pt>
 File: output_67_0.png Graphic file (type png)
 <use output_67_0.png>
-Package pdftex.def Info: output_67_0.png  used on input line 784.
+Package pdftex.def Info: output_67_0.png  used on input line 875.
+(pdftex.def)             Requested size: 1160.33217pt x 689.57455pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 877--878
+
+ []
+
+<output_69_0.png, id=203, 1160.335pt x 676.5275pt>
+File: output_69_0.png Graphic file (type png)
+<use output_69_0.png>
+Package pdftex.def Info: output_69_0.png  used on input line 886.
 (pdftex.def)             Requested size: 1160.33217pt x 676.52583pt.
-[13 <./output_65_0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 786--787
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
 
  []
 
-<output_70_0.png, id=206, 1160.335pt x 723.70375pt>
-File: output_70_0.png Graphic file (type png)
-<use output_70_0.png>
-Package pdftex.def Info: output_70_0.png  used on input line 797.
-(pdftex.def)             Requested size: 1160.33217pt x 723.70198pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 799--800
-
- []
-
-[14 <./output_67_0.png> <./output_70_0.png>]
-<output_71_0.png, id=213, 1166.3575pt x 681.54625pt>
+[13 <./output_67_0.png> <./output_69_0.png>]
+<output_71_0.png, id=211, 1160.335pt x 676.5275pt>
 File: output_71_0.png Graphic file (type png)
 <use output_71_0.png>
-Package pdftex.def Info: output_71_0.png  used on input line 803.
+Package pdftex.def Info: output_71_0.png  used on input line 898.
+(pdftex.def)             Requested size: 1160.33217pt x 676.52583pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 900--901
+
+ []
+
+<output_74_0.png, id=212, 1166.3575pt x 681.54625pt>
+File: output_74_0.png Graphic file (type png)
+<use output_74_0.png>
+Package pdftex.def Info: output_74_0.png  used on input line 913.
 (pdftex.def)             Requested size: 1166.35466pt x 681.54459pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 805--806
-
- []
-
-<output_73_0.png, id=214, 1154.3125pt x 734.745pt>
-File: output_73_0.png Graphic file (type png)
-<use output_73_0.png>
-Package pdftex.def Info: output_73_0.png  used on input line 817.
-(pdftex.def)             Requested size: 1154.3097pt x 734.7432pt.
-[15 <./output_71_0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 819--820
+<output_74_1.png, id=213, 1443.3925pt x 1556.81625pt>
+File: output_74_1.png Graphic file (type png)
+<use output_74_1.png>
+Package pdftex.def Info: output_74_1.png  used on input line 915.
+(pdftex.def)             Requested size: 1443.38899pt x 1556.81247pt.
+[14 <./output_71_0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 917--918
 
  []
 
-<output_75_0.png, id=220, 1154.3125pt x 700.6175pt>
-File: output_75_0.png Graphic file (type png)
-<use output_75_0.png>
-Package pdftex.def Info: output_75_0.png  used on input line 827.
+[15 <./output_74_0.png> <./output_74_1.png>] [16]
+<output_77_0.png, id=229, 1160.335pt x 613.29124pt>
+File: output_77_0.png Graphic file (type png)
+<use output_77_0.png>
+Package pdftex.def Info: output_77_0.png  used on input line 931.
+(pdftex.def)             Requested size: 1160.33217pt x 613.28973pt.
+<output_77_1.png, id=230, 1434.35875pt x 1552.80125pt>
+File: output_77_1.png Graphic file (type png)
+<use output_77_1.png>
+Package pdftex.def Info: output_77_1.png  used on input line 933.
+(pdftex.def)             Requested size: 1434.35527pt x 1552.79747pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 935--936
+
+ []
+
+[17 <./output_77_0.png> <./output_77_1.png>]
+<output_83_0.png, id=237, 1154.3125pt x 700.6175pt>
+File: output_83_0.png Graphic file (type png)
+<use output_83_0.png>
+Package pdftex.def Info: output_83_0.png  used on input line 953.
 (pdftex.def)             Requested size: 1154.3097pt x 700.61578pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 829--830
+Underfull \hbox (badness 10000) in paragraph at lines 955--956
 
  []
 
-[16 <./output_73_0.png> <./output_75_0.png>]
-<output_76_0.png, id=227, 1160.335pt x 669.50125pt>
-File: output_76_0.png Graphic file (type png)
-<use output_76_0.png>
-Package pdftex.def Info: output_76_0.png  used on input line 833.
+<output_84_0.png, id=238, 1160.335pt x 669.50125pt>
+File: output_84_0.png Graphic file (type png)
+<use output_84_0.png>
+Package pdftex.def Info: output_84_0.png  used on input line 958.
 (pdftex.def)             Requested size: 1160.33217pt x 669.49962pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 835--836
+[18 <./output_83_0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 960--961
 
  []
 
-<output_78_0.png, id=228, 1166.3575pt x 1228.59pt>
-File: output_78_0.png Graphic file (type png)
-<use output_78_0.png>
-Package pdftex.def Info: output_78_0.png  used on input line 842.
+<output_86_0.png, id=244, 1166.3575pt x 1228.59pt>
+File: output_86_0.png Graphic file (type png)
+<use output_86_0.png>
+Package pdftex.def Info: output_86_0.png  used on input line 966.
 (pdftex.def)             Requested size: 1166.35466pt x 1228.587pt.
-[17 <./output_76_0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 844--845
+[19 <./output_84_0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 968--969
 
  []
 
-<output_80_0.png, id=234, 1160.335pt x 1152.305pt>
-File: output_80_0.png Graphic file (type png)
-<use output_80_0.png>
-Package pdftex.def Info: output_80_0.png  used on input line 866.
+<output_88_0.png, id=251, 1160.335pt x 1152.305pt>
+File: output_88_0.png Graphic file (type png)
+<use output_88_0.png>
+Package pdftex.def Info: output_88_0.png  used on input line 990.
 (pdftex.def)             Requested size: 1160.33217pt x 1152.30219pt.
-[18 <./output_78_0.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 868--869
+[20 <./output_86_0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 992--993
 
  []
 
-[19 <./output_80_0.png>]
-<output_90_0.png, id=247, 1180.41pt x 639.38875pt>
-File: output_90_0.png Graphic file (type png)
-<use output_90_0.png>
-Package pdftex.def Info: output_90_0.png  used on input line 948.
-(pdftex.def)             Requested size: 1180.40714pt x 639.38718pt.
- [20]
-Underfull \hbox (badness 10000) in paragraph at lines 950--951
+[21 <./output_88_0.png>]
+<output_98_0.png, id=263, 1180.41pt x 622.325pt>
+File: output_98_0.png Graphic file (type png)
+<use output_98_0.png>
+Package pdftex.def Info: output_98_0.png  used on input line 1055.
+(pdftex.def)             Requested size: 1180.40714pt x 622.32347pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1057--1058
 
  []
 
-[21 <./output_90_0.png>] [22] [23]
-<output_103_0.png, id=267, 1171.37625pt x 639.38875pt>
-File: output_103_0.png Graphic file (type png)
-<use output_103_0.png>
-Package pdftex.def Info: output_103_0.png  used on input line 1105.
+[22 <./output_98_0.png>] [23]
+<output_111_0.png, id=275, 1171.37625pt x 639.38875pt>
+File: output_111_0.png Graphic file (type png)
+<use output_111_0.png>
+Package pdftex.def Info: output_111_0.png  used on input line 1150.
 (pdftex.def)             Requested size: 1171.3734pt x 639.38718pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1107--1108
+Underfull \hbox (badness 10000) in paragraph at lines 1152--1153
 
  []
 
-[24 <./output_103_0.png>]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1144.
-
-[25] [26]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1235.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1235.
+[24 <./output_111_0.png>] [25]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1189.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1189.
  (./ProjectPresentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1235.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1235.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1189.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1189.
 
 Package rerunfilecheck Info: File `ProjectPresentation.out' has not changed.
-(rerunfilecheck)             Checksum: 7C35F9108D9B26016A185F468B89F9C1;1531.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Checksum: 01FEBE855CA4D486070A742388173BCF;1478.
  ) 
 Here is how much of TeX's memory you used:
- 21094 strings out of 492616
- 384725 string characters out of 6129482
- 536257 words of memory out of 5000000
- 24515 multiletter control sequences out of 15000+600000
+ 21097 strings out of 492616
+ 384717 string characters out of 6129482
+ 519201 words of memory out of 5000000
+ 24519 multiletter control sequences out of 15000+600000
  28040 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,6n,73p,898b,511s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,6n,73p,898b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/tex
 live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texli
@@ -1409,10 +1402,10 @@ e/2019/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/20
 /texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2019/texmf-
 dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2019/texmf-dist/fo
 nts/type1/urw/palatino/uplri8a.pfb>
-Output written on ProjectPresentation.pdf (26 pages, 973255 bytes).
+Output written on ProjectPresentation.pdf (25 pages, 1135299 bytes).
 PDF statistics:
- 332 PDF objects out of 1000 (max. 8388607)
- 246 compressed objects within 3 object streams
- 70 named destinations out of 1000 (max. 500000)
- 277 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 330 PDF objects out of 1000 (max. 8388607)
+ 243 compressed objects within 3 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 282 words of extra memory for PDF output out of 10000 (max. 10000000)
 

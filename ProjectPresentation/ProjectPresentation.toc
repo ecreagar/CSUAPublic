@@ -1,18 +1,18 @@
 \contentsline {subsubsection}{\numberline {0.0.1}Description:}{1}{subsubsection.0.0.1}% 
-\contentsline {section}{\numberline {1}Part 1 - Inbox Basics}{2}{section.1}% 
-\contentsline {subsubsection}{\numberline {1.0.1}a: How many tickets have we recieved?}{2}{subsubsection.1.0.1}% 
-\contentsline {subsubsection}{\numberline {1.0.2}b: On average, how many tickets do we solve?}{2}{subsubsection.1.0.2}% 
-\contentsline {subsubsection}{\numberline {1.0.3}c: How have these trends changed over time?}{2}{subsubsection.1.0.3}% 
-\contentsline {section}{\numberline {2}Part 2:}{3}{section.2}% 
-\contentsline {subsubsection}{\numberline {2.0.1}How can we allocate staff to match our times of highest volume of tickets?}{3}{subsubsection.2.0.1}% 
-\contentsline {section}{\numberline {3}Part 3}{10}{section.3}% 
+\contentsline {subsection}{\numberline {0.1}Summary of Findings:}{2}{subsection.0.1}% 
+\contentsline {subsubsection}{\numberline {0.1.1}Inbox basics:}{2}{subsubsection.0.1.1}% 
+\contentsline {subsubsection}{\numberline {0.1.2}Time Trends:}{2}{subsubsection.0.1.2}% 
+\contentsline {subsubsection}{\numberline {0.1.3}Category Trends:}{2}{subsubsection.0.1.3}% 
+\contentsline {subsubsection}{\numberline {0.1.4}Completed Ticket Trends:}{3}{subsubsection.0.1.4}% 
+\contentsline {section}{\numberline {1}Part 1 - Inbox Basics}{3}{section.1}% 
+\contentsline {subsubsection}{\numberline {1.0.1}a: How many emails have we recieved?}{3}{subsubsection.1.0.1}% 
+\contentsline {subsubsection}{\numberline {1.0.2}b: On average, how many tickets do we solve?}{3}{subsubsection.1.0.2}% 
+\contentsline {subsubsection}{\numberline {1.0.3}c: How have these trends changed over time?}{4}{subsubsection.1.0.3}% 
+\contentsline {section}{\numberline {2}Part 2: Time Trends}{4}{section.2}% 
+\contentsline {subsubsection}{\numberline {2.0.1}What are our times of highest volume?}{4}{subsubsection.2.0.1}% 
+\contentsline {section}{\numberline {3}Part 3: Category Trends}{10}{section.3}% 
 \contentsline {subsection}{\numberline {3.1}a: What is the category breakdown on incoming tickets?}{10}{subsection.3.1}% 
-\contentsline {subsection}{\numberline {3.2}b: What is does this breakdown look like by time period?}{11}{subsection.3.2}% 
-\contentsline {section}{\numberline {4}Part 4:}{20}{section.4}% 
-\contentsline {subsection}{\numberline {4.1}a: What is the breakdown of tickets completed by category?}{20}{subsection.4.1}% 
-\contentsline {subsection}{\numberline {4.2}b: By technician?}{21}{subsection.4.2}% 
-\contentsline {section}{\numberline {5}Conclusion}{25}{section.5}% 
-\contentsline {subsubsection}{\numberline {5.0.1}Inbox basics:}{25}{subsubsection.5.0.1}% 
-\contentsline {subsubsection}{\numberline {5.0.2}When do we recieve the most tickets?:}{25}{subsubsection.5.0.2}% 
-\contentsline {subsubsection}{\numberline {5.0.3}What does our inbox breakdown look like by ticket category?:}{25}{subsubsection.5.0.3}% 
-\contentsline {subsubsection}{\numberline {5.0.4}What does our breakdown of tickets completed look like by category?:}{26}{subsubsection.5.0.4}% 
+\contentsline {subsection}{\numberline {3.2}b: What does this breakdown look like by time period?}{12}{subsection.3.2}% 
+\contentsline {section}{\numberline {4}Part 4: Completed Ticket Trends}{22}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}a: What is the breakdown of tickets completed by category?}{22}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}b: What is the breakdown of completed tickets by technician?}{23}{subsection.4.2}% 
