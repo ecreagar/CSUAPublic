@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  16 NOV 2020 11:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  18 NOV 2020 14:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1382,14 +1382,24 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 1189.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1189.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1189.
 
-Package rerunfilecheck Info: File `ProjectPresentation.out' has not changed.
-(rerunfilecheck)             Checksum: 01FEBE855CA4D486070A742388173BCF;1478.
+
+
+Package rerunfilecheck Warning: File `ProjectPresentation.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `ProjectPresentation.out':
+(rerunfilecheck)             Before: 01FEBE855CA4D486070A742388173BCF;1478
+(rerunfilecheck)             After:  6EFB91E454FE6021F0453974E163D5F2;1478.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 21097 strings out of 492616
- 384717 string characters out of 6129482
+ 21098 strings out of 492616
+ 384753 string characters out of 6129482
  519201 words of memory out of 5000000
- 24519 multiletter control sequences out of 15000+600000
+ 24520 multiletter control sequences out of 15000+600000
  28040 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,6n,73p,898b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
